@@ -5,3 +5,5 @@ y estoy probando la funcion de stash, cuando llega el compañero de trabajo a pe
 Estoy trabajando en este proyecto ahora.
 Estoy haciendo progresos muy interesantes.
 #Listo con esto terminamos la actualización
+#Archivo modificado desde HitHub
+Esto es una modificación hecha desde la Web
